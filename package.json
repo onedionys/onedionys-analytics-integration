@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-analytics-integration",
+  "version": "1.0.0",
+  "description": "One Dionys (Analytics Integration) - Functions for integrating analytics tools such as Google Analytics into web applications.",
+  "main": "src/analytics.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-analytics-integration.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "analytics-integration"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-analytics-integration/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-analytics-integration#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-data-formatting-helpers": "^1.0.0",
+    "onedionys-dom-traversal-utilities": "^1.0.0",
+    "onedionys-drag-drop-components": "^1.0.0",
+    "onedionys-feature-toggle-utilities": "^1.0.0",
+    "onedionys-modal-dialog-component": "^1.0.0"
+  }
+}
