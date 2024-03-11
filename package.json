@@ -1,6 +1,6 @@
 {
   "name": "onedionys-analytics-integration",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Analytics Integration) - Functions for integrating analytics tools such as Google Analytics into web applications.",
   "main": "src/analytics.js",
   "directories": {
